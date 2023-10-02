@@ -11,8 +11,8 @@ Soy un apasionado de la programación y actualmente estoy estudiando para conver
 - Frameworks de backend: Node.js, Spring, Flask
 - Base de datos: MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, SQL Server, Oracle
 - Control de versiones: Git, TortoiseSVN
-- Metodologías tradicionales: Cascada
-- Metodologías ágiles: Scrum
+- Metodologías tradicionales: RUP
+- Metodologías ágiles: SCRUM, Kanban
 
 ## Proyectos destacados
 - VETERINARIA 🐕 (https://github.com/iDylaan/Veterinaria-dinamica.git): Aplicación web dinámica de una veterinaria, realizada con HTML, CSS, JavaScript, y PHP en el lado del backend con una conexión a una base de datos de MySQL.

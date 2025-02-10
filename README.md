@@ -6,7 +6,7 @@
 Soy un apasionado de la programación y actualmente estoy estudiando para convertirme en un programador Fullstack. Me encanta aprender cosas nuevas y estoy siempre buscando desafíos que me permitan crecer como desarrollador.
 
 ## Mis habilidades 💪
-- Lenguajes de programación: JavaScript, HTML, CSS, Python, Java, C++, Flutter, 
+- Lenguajes de programación: JavaScript, Python, Java, Dart
 - Frameworks de frontend: React, Vue.js, Next, Nuxt
 - Frameworks de backend: Node.js, Flask
 - Base de datos: MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, SQL Server, Oracle

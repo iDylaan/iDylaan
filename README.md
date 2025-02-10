@@ -14,11 +14,6 @@ Soy un apasionado de la programación y actualmente estoy estudiando para conver
 - Metodologías tradicionales: RUP
 - Metodologías ágiles: SCRUM, Kanban
 
-## Proyectos destacados
-- VETERINARIA 🐕 (https://github.com/iDylaan/Veterinaria-dinamica.git): Aplicación web dinámica de una veterinaria, realizada con HTML, CSS, JavaScript, y PHP en el lado del backend con una conexión a una base de datos de MySQL.
-- Easy Eats 🥞 (https://github.com/iDylaan/easy-eats-app.git): Aplicación web fullstack de recetas desarrollada con Vue en el frontend y Flask como servidor, con una conexión a una base de datos de MariaDB.
-- Bassar 🛒 (https://github.com/iDylaan/Bassar.git): Simulación de e-commerce en una app web desarrollada con HTML5, CSS3, JavaScript y PHP con conexión a una base de datos de MySQL.
-
 ## Contacto 📒
 - Correo electrónico: daniel.marin92@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/daniel-chaparro-marin-277b26256/

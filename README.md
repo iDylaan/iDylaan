@@ -7,12 +7,10 @@ Soy un apasionado de la programación y actualmente estoy estudiando para conver
 
 ## Mis habilidades 💪
 - Lenguajes de programación: JavaScript, HTML, CSS, Python, Java, C++, Flutter, 
-- Frameworks de frontend: React, VueJs
-- Frameworks de backend: Node.js, Spring, Flask
+- Frameworks de frontend: React, Vue.js, Next, Nuxt
+- Frameworks de backend: Node.js, Flask
 - Base de datos: MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, SQL Server, Oracle
 - Control de versiones: Git, TortoiseSVN
-- Metodologías tradicionales: RUP
-- Metodologías ágiles: SCRUM, Kanban
 
 ## Contacto 📒
 - Correo electrónico: daniel.marin92@hotmail.com

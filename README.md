@@ -14,7 +14,7 @@ Soy un apasionado de la programación y actualmente estoy estudiando para conver
 
 ## Contacto 📒
 - Correo electrónico: daniel.marin92@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/daniel-chaparro-marin-277b26256/
+- LinkedIn: https://www.linkedin.com/in/daniel-chaparro-marin/
 
 
 <!--
